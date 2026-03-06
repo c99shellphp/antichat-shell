@@ -6,7 +6,7 @@ This repository shares Antichat shell scripts designed for learning server inter
 
 ## About Antichat Shell
 
-Antichat Shell is known in security communities as a web-based shell tool used to analyze server security mechanisms.
+**Antichat Shell** is known in security communities as a web-based shell tool used to analyze server security mechanisms.
 
 Security researchers and developers study webshell tools like Antichat Shell to improve web protection strategies and understand potential server vulnerabilities.
 
@@ -25,7 +25,7 @@ This project is shared for research and educational purposes only. Unauthorized 
 ## Keywords
 
 antichat shell  
-**antichat shell download  **
+antichat shell download
 php shell  
 webshell  
 security tools  
